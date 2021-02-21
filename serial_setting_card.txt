@@ -1,0 +1,3 @@
+ReturnStep,return_from_step_No,return_to_step_No,repetition_times
+STEP_NO,SET_TEMP,SET_TIME
+ex:1,40,0:17 [step 1, 40 celcius degree, 17 min]
